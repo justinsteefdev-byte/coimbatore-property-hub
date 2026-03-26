@@ -21,7 +21,7 @@ const processSteps = [
 
 const Services = () => {
   return (
-    <div className="pt-20">
+    <div className="pt-15 md:pt-20">
       {/* Hero */}
       <section className="relative py-24 overflow-hidden">
         <div className="absolute inset-0">

@@ -112,6 +112,9 @@ export default {
         "slide-in-left": "slide-in-left 0.6s ease-out forwards",
         "scale-in": "scale-in 0.5s ease-out forwards",
       },
+      spacing: {
+        "15": "3.75rem",
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],

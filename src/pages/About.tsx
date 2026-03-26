@@ -20,7 +20,7 @@ const whyUs = [
 
 const About = () => {
   return (
-    <div className="pt-20">
+    <div className="pt-15 md:pt-20">
       {/* Hero */}
       <section className="relative py-24 navy-gradient">
         <div className="container-custom px-4 sm:px-6 lg:px-8 text-center">
