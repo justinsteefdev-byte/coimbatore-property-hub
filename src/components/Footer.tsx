@@ -65,8 +65,8 @@ const Footer = () => {
           <p>&copy; {new Date().getFullYear()} BuildNest Realty. All rights reserved.</p>
           <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
             <span className="text-primary-foreground/60">Developed by <span className="text-gold font-medium">Justin</span></span>
-            <a href="mailto:justin.dev@gmail.com" className="hover:text-gold transition-colors flex items-center gap-1.5 text-primary-foreground/60 hover:text-gold">
-              <Mail className="w-3.5 h-3.5" /> justin.dev@gmail.com
+            <a href="mailto:justinsteef.dev@gmail.com" className="hover:text-gold transition-colors flex items-center gap-1.5 text-primary-foreground/60 hover:text-gold">
+              <Mail className="w-3.5 h-3.5" /> justinsteef.dev@gmail.com
             </a>
             <a href="tel:8423110460" className="hover:text-gold transition-colors flex items-center gap-1.5 text-primary-foreground/60 hover:text-gold">
               <Phone className="w-3.5 h-3.5" /> 8423110460
