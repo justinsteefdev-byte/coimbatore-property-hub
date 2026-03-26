@@ -29,7 +29,7 @@ const About = () => {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-primary-foreground">
               About <span className="text-gold-gradient">BuildNest</span> Realty
             </h1>
-            <p className="mt-4 text-lg text-primary-foreground/70 max-w-2xl mx-auto">
+            <p className="mt-4 text-lg text-primary-foreground/70 max-w-2xl  mx-auto">
               Building trust and dreams in Coimbatore since 2005
             </p>
           </motion.div>
